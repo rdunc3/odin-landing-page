@@ -26,7 +26,6 @@ a {
 .hero h2 {
     font-size: 24px;
     color: #F9FAF8;
-    
 }
 
 .nav-list {
@@ -84,4 +83,36 @@ a {
     flex-direction: column;
     /* border: dashed pink; */
     gap: 20px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 200px 20px 200px;
+}
+
+.info > * {
+    border: dashed hotpink;
+    padding: 50px 0px 50px 0px;
+}
+
+.info > h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+}
+
+.info-images {
+    display: flex;
+}
+
+.image-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-text > img {
+    border-color: solid #3882F6;
+    border-radius: 10px;
 }
