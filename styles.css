@@ -59,14 +59,21 @@ a {
 .header2{
     display: flex;
     padding: 120px 0 120px 0;
+    border: dashed greenyellow;
+    gap: 15px;
 }
 
 .button {
     background-color: #3882F6;
+    border-radius: 25px;
 }
 
 .header-text{
+    display: flex;
     flex: 1;
+    flex-direction: column;
+    border: dashed pink;
+    gap: 10px;
 }
 
 .image {
