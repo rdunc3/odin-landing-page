@@ -44,3 +44,27 @@ a {
 .content {
     padding: 20px 200px 20px 200px;
 }
+
+.main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header2 {
+    display: flex;
+    padding: 120px 0 120px 0;
+}
+
+.button {
+    background-color: #3882F6;
+}
+
+.image {
+    background-color: gray;
+}
