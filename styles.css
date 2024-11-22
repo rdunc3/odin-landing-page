@@ -1,18 +1,32 @@
-.page {
+* {
+    box-sizing: border-box;
+}
+ 
+body {
     display: flex;
     flex-direction: column;
+    border: 10px solid greenyellow;
+    min-height: 100vh;
 }
-  
-.header, .hero, .footer {
+
+.main {
+    flex-grow: 1;
+}
+
+.header, .main, .footer {
+    border: 4px solid hotpink;
+}
+
+.header, #hero, .footer {
     background-color: #1f2937;
 }
 
-.quote {
+#quote {
     background-color: #e5e7eb;
 }
 
-.page div { 
-    border: pink;
-    height: 80px;
-    flex: 1 1 auto;
+.inner-col {
+    display: block;
+    border: 4px solid cyan;
+    padding: 10px;
 }
