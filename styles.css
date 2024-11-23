@@ -161,3 +161,8 @@ p a {
     max-height: 200px;
     max-width: 200px;
 }
+
+#quote {
+    display: flex;
+    flex-direction: column;
+}
