@@ -153,8 +153,7 @@ p a {
     display: flex;
     flex-direction: row;
     flex: 1;
-    padding: 15px;
-    gap: 30px;
+    gap: 10px;
 }
 
 .info-module-graphic img {
@@ -165,4 +164,18 @@ p a {
 #quote {
     display: flex;
     flex-direction: column;
+    color: #1f2937;
+}
+
+#quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    line-height: 1.2;
+}
+
+#quote-source {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: right;
 }
