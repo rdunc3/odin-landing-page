@@ -6,8 +6,8 @@ The landing page features a responsive design that adapts to different screen si
 
 ## Usage
 
-To view the Odin Landing Page you can view from GitHub pages.
+To view the Odin Landing Page you can view from [GitHub pages](https://rdunc3.github.io/odin-landing-page/).
 
 ## Credits
 
-The Odin Landing Page was created by [rdunc3](https://github.com/rdunc3) as a project for [The Odin Project](https://www.theodinproject.com/) curriculum.
+The Odin Landing Page was created by [rdunc3](https://github.com/rdunc3) as a project for [The Odin Project](https://www.theodinproject.com/).
