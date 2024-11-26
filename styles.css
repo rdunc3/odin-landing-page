@@ -179,3 +179,8 @@ p a {
     font-weight: bold;
     text-align: right;
 }
+
+#copyright {
+    color: #e5e7eb;
+    text-align: center;
+}
